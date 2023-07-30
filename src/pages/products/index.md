@@ -40,12 +40,12 @@ intro:
     
     Jaminan uptime 99,99%, website Anda akan selalu online. Lebih optimal walaupun dalam kondisi trafik tinggi.
 main:
-  heading: Great coffee with no compromises
+  heading: Pilihlah layanan hosting yang sesuai dengan kebutuhan Anda
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Pastikan untuk mempertimbangkan ruang penyimpanan, bandwidth, tingkat
+    dukungan pelanggan, kehandalan server, dan harga yang sesuai dengan anggaran
+    Anda. Selalu lakukan riset lebih lanjut dan baca ulasan pengguna sebelum
+    membuat keputusan akhir
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products-grid3.jpg
