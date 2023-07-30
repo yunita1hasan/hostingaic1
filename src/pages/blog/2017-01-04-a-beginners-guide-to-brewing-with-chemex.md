@@ -1,10 +1,12 @@
 ---
 templateKey: blog-post
-title: A beginners’ guide to brewing with Chemex
-date: 2017-01-04T15:04:10.000Z
+title: Manfaat web hosting
+date: 2023-07-30T12:15:06.856Z
+description: Hosting, dalam konteks teknologi informasi, merujuk pada penyediaan
+  ruang server atau infrastruktur untuk menyimpan dan mengakses data, situs web,
+  atau aplikasi secara online.
 featuredpost: false
 featuredimage: /img/chemex.jpg
-description: Brewing with a Chemex probably seems like a complicated, time-consuming ordeal, but once you get used to the process, it becomes a soothing ritual that's worth the effort every time.
 tags:
   - brewing
   - chemex
