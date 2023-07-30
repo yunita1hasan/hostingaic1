@@ -6,7 +6,7 @@ description: Hosting, dalam konteks teknologi informasi, merujuk pada penyediaan
   ruang server atau infrastruktur untuk menyimpan dan mengakses data, situs web,
   atau aplikasi secara online.
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/download-7-.jpg
 tags:
   - brewing
   - chemex
