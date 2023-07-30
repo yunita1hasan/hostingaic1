@@ -62,7 +62,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/images-17-.jpg
+full_image: /img/images-16-.jpg
 pricing:
   heading: Uptime Website 99,99%.
   description: Jaminan uptime 99,99%, website Anda akan selalu online. Lebih
