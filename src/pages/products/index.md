@@ -3,7 +3,7 @@ heading: pilihan layanan web hosting kami
 path: /products
 templateKey: product-page
 title: Produk
-image: /img/images-2-.png
+image: /img/images-24-.jpg
 description: Pilihan layanan web hosting dapat beragam tergantung pada kebutuhan
   dan anggaran Anda..
 intro:
