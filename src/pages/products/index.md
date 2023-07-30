@@ -36,8 +36,8 @@ main:
     alt: "#web hosting murah"
     image: /img/images-17-.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: "#web hosting murah "
+    image: /img/download-7-.jpg
 testimonials: []
 full_image: /img/images-16-.jpg
 pricing:
