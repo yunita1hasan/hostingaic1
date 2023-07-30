@@ -83,13 +83,16 @@ pricing:
         - Backup Mingguan
       plan: Hosting Single.
       price: 10/bulan
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
+    - description: Fitur yang kami tawarkan
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: "80"
+        - 100 Website
+        - 100 GB SSD Storage
+        - Unlimited Bandwidth
+        - Domain Gratis (senilai Rp119.900)
+        - SSL Gratis Unlimited
+        - Backup Mingguan
+      plan: Hosting Premium
+      price: 25/bulan
     - description: Want a few tiny batches from different varieties? Try our custom plan
       items:
         - Whatever you need
