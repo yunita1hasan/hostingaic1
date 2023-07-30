@@ -2,29 +2,27 @@
 templateKey: index-page
 title: "WEB HOSTING MURAH AJA "
 image: /img/download-9-.jpg
-heading: Great coffee with a conscience
+heading: Fungsi web hosting
 subheading: Bisnis yang berkembang dan mendunia
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Apa itu Web hosting
+  description: Web hosting adalah layanan yang menyediakan ruang server dan sumber
+    daya lainnya untuk menyimpan dan mengelola berbagai jenis konten website.
+    Ketika Anda membuat sebuah situs web, semua file, gambar, kode, dan konten
+    lainnya harus disimpan di suatu tempat sehingga dapat diakses melalui
+    internet oleh pengguna dari berbagai lokasi
+description: Penggunaan web hosting memungkinkan situs web Anda dihosting pada
+  server yang dikelola oleh perusahaan penyedia layanan hosting. Server ini
+  berfungsi sebagai tempat penyimpanan data Anda dan memungkinkan website Anda
+  dapat diakses oleh pengunjung dari seluruh dunia, 24 jam sehari, 7 hari
+  seminggu
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
+    - image: /img/images-16-.jpg
+      text: Pada dasarnya web hosting adalah proses yang berjalan di web server, yaitu
+        komputer fisik yang bekerja 24 jam setiap harinya untuk menyediakan
+        website di internet
+    - image: /img/images-16-.jpg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -44,12 +42,12 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+  heading: Tugas web hosting itu apa  aja ya ?
+  description: >+
+    Tugas web hosting yaitu untuk mengelola dan menjalankan server, mengamankan
+    website, dan memastikan bahwa data seperti teks, foto, dan file website
+    lainnya bisa diakses oleh pengunjung.
+
 main:
   heading: Great coffee with no compromises
   description: >
