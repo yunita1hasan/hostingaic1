@@ -78,7 +78,7 @@ pricing:
         - 1 Website
         - 50 GB SSD Storage
         - Bandwidth 100
-        - GB Domain Gratis (senilai Rp119.900)
+        - GB Domain Gratis
         - SSL Gratis Unlimited
         - Backup Mingguan
       plan: Hosting Single.
@@ -88,16 +88,19 @@ pricing:
         - 100 Website
         - 100 GB SSD Storage
         - Unlimited Bandwidth
-        - Domain Gratis (senilai Rp119.900)
+        - Domain Gratis
         - SSL Gratis Unlimited
         - Backup Mingguan
       plan: Hosting Premium
       price: 25/bulan
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+    - description: Fitur yang kami tawarkan
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: ??
+        - 100 Website
+        - 200 GB SSD Storage
+        - Unlimited Bandwidth
+        - Domain Gratis
+        - SSL Gratis Unlimited
+        - Backup Harian.
+      plan: Hosting Bisnis
+      price: 50/bulan
 ---
