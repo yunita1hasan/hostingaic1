@@ -8,33 +8,16 @@ description: Pilihan layanan web hosting dapat beragam tergantung pada kebutuhan
   dan anggaran Anda..
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/download-7-.jpg
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        Pastikan untuk mempertimbangkan ruang penyimpanan, bandwidth, tingkat
+        dukungan pelanggan, kehandalan server, dan harga yang sesuai dengan
+        anggaran Anda. Selalu lakukan riset lebih lanjut dan baca ulasan
+        pengguna sebelum membuat keputusan akhir
+    - image: /img/images-16-.jpg
+      text: "E-commerce Hosting: Layanan ini dioptimalkan khusus untuk situs web
+        e-commerce, menyediakan fitur dan keamanan tambahan untuk transaksi
+        online yang aman."
   heading: Uptime Website 99,99%.
   description: >
     
@@ -48,7 +31,7 @@ main:
     membuat keputusan akhir
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/images-2-.png
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
