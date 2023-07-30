@@ -61,7 +61,7 @@ const Navbar = () => {
           <li className="navbar-end has-text-centered">
             <a
               className="navbar-item"
-              href="https://github.com/netlify-templates/gatsby-starter-netlify-cms"
+              href="http://hosting.clouddocker.site/order"
               target="_blank"
               rel="noopener noreferrer"
             >
