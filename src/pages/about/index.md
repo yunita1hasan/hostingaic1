@@ -3,13 +3,17 @@ templateKey: about-page
 path: /about
 title: Berbagai jenis web hosting yang tersedia
 ---
-**berbagai jenis web hosting yang tersedia** 
+**Berbagai jenis web hosting yang tersedia diantarany adalah :**
 
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+1. **Hosting Bersama.**
 
-### Single origin
+    Di hosting bersama, beberapa situs web dihosting di server yang sama, berbagi sumber dayanya (CPU, RAM, ruang disk, dll.). Ini adalah opsi hemat biaya yang cocok untuk situs web kecil dengan lalu lintas sedang.
+2. **VPS Hosting (Virtual Private Server)**
 
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+   Hosting VPS melibatkan pembagian server fisik menjadi beberapa server virtual. Setiap server virtual beroperasi secara independen dengan sumber dayanya sendiri. Ini menawarkan lebih banyak kontrol dan skalabilitas dibandingkan dengan shared hosting.
+3.
+
+
 
 ### Sustainable farming
 
