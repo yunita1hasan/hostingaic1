@@ -1,13 +1,11 @@
 ---
-heading: Great coffee with a conscience
+heading: pilihan layanan web hosting kami
 path: /products
 templateKey: product-page
 title: Produk
-image: /img/jumbotron.jpg
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+image: /img/images-2-.png
+description: Pilihan layanan web hosting dapat beragam tergantung pada kebutuhan
+  dan anggaran Anda..
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -37,7 +35,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Uptime Website 99,99%.
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
